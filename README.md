@@ -1,6 +1,6 @@
 # PianoTune-Generator
 
-![alt text](https://github.com/tusharstg/PianoTune-Generator/image11.png?raw=true)
+![alt text](https://github.com/tusharstg/PianoTune-Generator/blob/main/image11.png?raw=true)
 
 ##############################################################################
 				Bidrectional LSTM RNN
